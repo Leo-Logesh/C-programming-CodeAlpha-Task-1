@@ -44,5 +44,5 @@ The program uses:
 ==========================================================
 📤 SAMPLE OUTPUT:
 
-https://github.com/user-attachments/assets/94ce6ca7-ddb9-44f1-b512-5f1a357ed13f
+<img width="1470" height="930" alt="Image" src="https://github.com/user-attachments/assets/94ce6ca7-ddb9-44f1-b512-5f1a357ed13f" />
 ==========================================================
