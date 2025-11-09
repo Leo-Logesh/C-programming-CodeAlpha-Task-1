@@ -16,6 +16,7 @@ C Programming — CodeAlpha Internship
 CodeAlpha (www.codealpha.tech)
 
 ==========================================================
+
 📄 DESCRIPTION:
 This program performs basic arithmetic operations 
 (Addition, Subtraction, Multiplication, and Division) 
@@ -29,19 +30,23 @@ The program uses:
 ✅ formatted output for clarity  
 
 ==========================================================
+
 ⚙️ FEATURES:
 - User can perform multiple operations
 - Handles invalid operators gracefully
 - Checks for division by zero
 - Easy to use and understand
 ==========================================================
+
 💻 HOW TO RUN:
 1️⃣ Save the file as calculator.c  
 2️⃣ Compile using:  
       gcc calculator.c -o calculator
+
 3️⃣ Run the program:  
       ./calculator
 ==========================================================
+
 📤 SAMPLE OUTPUT:
 
 <img width="1470" height="930" alt="Image" src="https://github.com/user-attachments/assets/94ce6ca7-ddb9-44f1-b512-5f1a357ed13f" />
