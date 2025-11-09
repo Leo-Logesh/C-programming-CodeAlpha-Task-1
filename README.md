@@ -1,4 +1,4 @@
-/*
+
 ==========================================================
  🧮 CODEALPHA INTERNSHIP — TASK 1: BASIC CALCULATOR IN C
 ==========================================================
@@ -42,9 +42,9 @@ The program uses:
 1️⃣ Save the file as calculator.c  
 2️⃣ Compile using:  
       gcc calculator.c -o calculator
-
 3️⃣ Run the program:  
       ./calculator
+      
 ==========================================================
 
 📤 SAMPLE OUTPUT:
